@@ -55,4 +55,4 @@ Quer replicar o projeto na sua cidade, escola ou hackerspace? Ou contribuir com 
 
 Este projeto está licenciado sob a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) – você pode usar, adaptar e compartilhar, desde que cite a fonte e mantenha a mesma licença.
 
-> _“Ensinar uma criança a hackear é ensiná-la a entender o mundo e a transformá-lo.”_
+> _“Ensinar uma criança a hackear é ensiná-la a entender o mundo e a transformá-lo. ── OLUCASMAC”_
