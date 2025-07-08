@@ -4,9 +4,9 @@ Este diretório contém os planos de aula e roteiros de oficinas do projeto Hack
 
 ## Organização sugerida:
 
-- `7-10/` – Oficinas lúdicas e introdutórias
-- `11-14/` – Oficinas intermediárias
-- `15-17/` – Oficinas avançadas e projetos autorais
+- `07-10` – Oficinas lúdicas e introdutórias
+- `11-14` – Oficinas intermediárias
+- `15-17` – Oficinas avançadas e projetos autorais
 
 Cada roteiro pode incluir:
 
