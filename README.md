@@ -1,10 +1,6 @@
 # Hackids – Cultura Hacker e Segurança Digital para Crianças e Adolescentes
 
-<div style="text-align: center;">
-<br>
 ![Logo](/logo.png)
-<br>
-</div>
 
 **Hackids** é uma iniciativa do [Teresina Hacker Clube (THC)](https://github.com/teresinahc) voltada à educação digital, segurança online e introdução à cultura hacker para crianças e adolescentes de **7 a 17 anos**.
 
